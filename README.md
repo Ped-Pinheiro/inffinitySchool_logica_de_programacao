@@ -1,2 +1,3 @@
 # inffinitySchool_logica_de_programacao
-I put here every homework from the programming logic course given by Infinity School. 
+
+I put here every homework from the logic programming course given by Infinity School.
