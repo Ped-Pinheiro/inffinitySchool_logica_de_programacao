@@ -1,3 +1,5 @@
+# Make a code get a letter and see if it is a vowel or consonant.
+
 letter = str(input("Digit a letter: "))
 
 if letter == "a":

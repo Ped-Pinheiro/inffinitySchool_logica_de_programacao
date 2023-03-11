@@ -1,3 +1,5 @@
+# Comparison between two numbers.
+
 number_one = int(input("Digit a first number: "))
 number_two = int(input("Digit a second number: "))
 
